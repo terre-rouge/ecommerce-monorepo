@@ -15,7 +15,7 @@
     "./apps/docs",
     "./apps/web",
     "./apps/store-web",
-    "./packages/eslint-config-acme",
+    "./packages/eslint-config-custom",
     "./packages/tsconfig",
     "./packages/ui",
     "./packages/zac-ui",
